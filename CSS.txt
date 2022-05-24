@@ -28,7 +28,7 @@ overflow: hidden;
 
  /* Add shadows to create the "card" effect */
 
- border: 3px solid teal;
+ border: 3px white;
 
  border-radius: 5px;
 
